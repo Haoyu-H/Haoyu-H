@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haoyu-h" alt="haoyu-h" /></a> </p>
 
-- 🔭 I’m currently working on **ML**
+- 🔭 I’m currently working on **JAVA**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **JAVA**
 
 - 📝 I regularly write articles on [ML](ML)
 
