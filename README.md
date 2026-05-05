@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haoyu He</h1>
-<h3 align="center">A student from China</h3>
+<h3 align="center">Master’s Student in The Chinese University of Hong Kong, Shenzhen</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haoyu-h&label=Profile%20views&color=0e75b6&style=flat-square" alt="haoyu-h" /> </p>
 
