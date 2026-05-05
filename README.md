@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Vector Databases**
 
-- 📝 I regularly write articles on [ML](ML)
+- 📝 I regularly write articles on [Vector Databases](Vector Databases)
 
 - 💬 Ask me about **anything you like**
 
